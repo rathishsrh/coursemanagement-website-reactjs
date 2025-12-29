@@ -1,0 +1,68 @@
+{
+  "admin": [
+    {
+      "email": "admin@gmail.com",
+      "password": "admin"
+    }
+  ],
+  "users": [
+    {
+      "id": "7544",
+      "email": "ben@gmail.com",
+      "phone": "1010101010",
+      "username": "ben_tennyson",
+      "password": "gwen",
+      "uuid": "189f5e4d-d933-417f-9f11-80740cb34621"
+    }
+  ],
+  "courses": [
+    {
+      "id": "jitha4403-0947-4c8a-a5b2-b80ac156e587",
+      "courseName": "ReactJS for Beginners",
+      "courseImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0R8mtfYStB7okwtcni1B26wrckmAhsbXLsg&s",
+      "courseDuration": "6 Weeks",
+      "courseAuthor": "Chinraj",
+      "coursePrice": "88"
+    },
+    {
+      "id": "djka4403-0947-4c8a-a5b2-b80ac156e587",
+      "courseName": "Full Stack Web Development",
+      "courseImage": "https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-260nw-2392481249.jpg",
+      "courseDuration": "4 Months",
+      "courseAuthor": "John Doe",
+      "coursePrice": 8999
+    },
+    {
+      "id": "ll1a4403-0947-4c8a-a5b2-b80ac156e587",
+      "courseName": "Java Programming Masterclass",
+      "courseImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE3nVrnWxyf_jSalx1ryti5Qk87vaKtljm4w&s",
+      "courseDuration": "8 Weeks",
+      "courseAuthor": "James Gosling",
+      "coursePrice": 4999
+    },
+    {
+      "id": "vd2a4403-0947-4c8a-a5b2-akac156e587",
+      "courseName": "MongoDB & NoSQL Database",
+      "courseImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuciqmioDoI4pNCCR3ZWpUdusgyzyNpnrzzA&s",
+      "courseDuration": "5 Weeks",
+      "courseAuthor": "Dwight Merriman",
+      "coursePrice": 3499
+    },
+    {
+      "id": "a10a4403-0947-4c8a-a5b2-f80ac156e587",
+      "courseName": "Data Structures & Algorithms",
+      "courseImage": "https://goedu.ac/wp-content/uploads/2024/06/GoEdu-course-thumbnail-1-1-1.webp",
+      "courseDuration": "3 Months",
+      "courseAuthor": "Abdul Bari",
+      "coursePrice": 6999
+    },
+    {
+      "id": "e02a4403-0947-4c8a-a5b2-b80ac156e587",
+      "courseName": "SQL",
+      "courseImage": "https://www.ed2go.com/common/images/1/17136.jpg",
+      "courseDuration": "4 weeks",
+      "courseAuthor": "Rath",
+      "coursePrice": "500000"
+    }
+  ]
+}
