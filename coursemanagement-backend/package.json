@@ -1,0 +1,11 @@
+{
+  "name": "coursemanagement-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server --host 0.0.0.0 --port 3000 --watch db.json"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
